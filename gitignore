@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+quest_window.db
+.venv/
+venv/
